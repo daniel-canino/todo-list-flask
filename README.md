@@ -22,7 +22,7 @@
 ```flask init-db```
 
 6. Inicializa la app 
-```export FLASK_APP=app```
+```export FLASK_APP=todo```
 
 7. Corre el servidor.
 ```flask run```
